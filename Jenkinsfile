@@ -12,7 +12,4 @@ pipeline {
       }
     }
   }
-  environment {
-    FirstPipeline = ''
-  }
 }
